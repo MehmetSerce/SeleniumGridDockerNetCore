@@ -28,13 +28,13 @@ namespace coreDeployTest
                         By.XPath("//*[@id=\"tsf\"]/div[2]/div/div[3]/center/input[1]")
                     ));
                 SearchButton.Click();
-                /*IWebElement firstLink = _wait.Until
+                IWebElement firstLink = _wait.Until
                     (ExpectedConditions.ElementToBeClickable
                     (
                         By.XPath("//*[@id=\"rso\"]/div[1]/div/div/div/div[1]/a/h3")
-                                
+
                     ));
-                firstLink.Click();*/
+                firstLink.Click();
                 string getir = driver.Title;
                 Assert.Equal("Mehmet Serçe, .Net Video ve Makaleleri", getir);
             }

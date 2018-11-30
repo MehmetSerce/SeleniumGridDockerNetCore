@@ -24,7 +24,7 @@ namespace coreDeployTest
             capabilities.SetCapability(CapabilityType.PlatformName, "LINUX");
             if (_driver == null)
             {
-                _driver = new RemoteWebDriver(new Uri("http://35.157.123.222:4444/wd/hub/"), capabilities, TimeSpan.FromSeconds(600));
+                _driver = new RemoteWebDriver(new Uri("http://192.168.2.208:4444/wd/hub/"), capabilities, TimeSpan.FromSeconds(600));
             }
             _wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(20));
             return _driver;

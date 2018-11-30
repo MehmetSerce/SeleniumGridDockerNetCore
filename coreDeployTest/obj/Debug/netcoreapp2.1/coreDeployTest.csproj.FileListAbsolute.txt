@@ -11,4 +11,4 @@ C:\Users\User\Desktop\coreOnLinux4\coreDeployTest\obj\Debug\netcoreapp2.1\coreDe
 C:\Users\User\Desktop\coreOnLinux4\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.AssemblyInfo.cs
 C:\Users\User\Desktop\coreOnLinux4\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.dll
 C:\Users\User\Desktop\coreOnLinux4\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.pdb
-C:\Users\User\Desktop\coreOnLinux4\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\coreOnLinux4\coreDeployTest\obj\Debug\netcoreapp2.1\coreDeployTest.csprojAssemblyReference.cache
