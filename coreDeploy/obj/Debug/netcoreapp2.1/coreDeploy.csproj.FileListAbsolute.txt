@@ -29,3 +29,4 @@ C:\Users\User\Desktop\coreOnLinux4\coreDeploy\bin\Debug\netcoreapp2.1\coreDeploy
 C:\Users\User\Desktop\coreOnLinux4\coreDeploy\bin\Debug\netcoreapp2.1\coreDeploy.Views.pdb
 C:\Users\User\Desktop\coreOnLinux4\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.Views.pdb
 C:\Users\User\Desktop\coreOnLinux4\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.csproj.CopyComplete
+C:\Users\User\Desktop\coreOnLinux4\coreDeploy\obj\Debug\netcoreapp2.1\coreDeploy.csprojResolveAssemblyReference.cache
