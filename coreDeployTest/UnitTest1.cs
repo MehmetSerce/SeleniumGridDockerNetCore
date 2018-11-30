@@ -31,7 +31,8 @@ namespace coreDeployTest
                 IWebElement firstLink = _wait.Until
                     (ExpectedConditions.ElementToBeClickable
                     (
-                        By.XPath("//*[@id=\"rso\"]/div[1]/div/div/div/div[1]/a/h3")
+                        By.XPath("//*[@id=\"rso\"]/div[1]/div/div[1]/div/div/div[1]/a/h3")
+                                  
                     ));
                 firstLink.Click();
                 string getir = driver.Title;
